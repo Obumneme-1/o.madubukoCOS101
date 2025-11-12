@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"name",
+				"name2"
+			],
+			[
 				"root",
 				"root3"
 			],
@@ -23,6 +27,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/USER/Documents/o.madubukoCOS101/week-7/practice_1/src/main.rs",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -56,28 +68,48 @@
 	},
 	"file_history":
 	[
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-6/practice_11/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-6/practice_10/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-6/practice_9/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-6/practice_8/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-6/practice_7/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-6/practice_6/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-6/practice_5/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-6/practice_4/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-6/practice_3/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-6/practice_2/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-6/practice_1/src/main.rs",
 		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/project_2/src/main.rs",
+		"/C/Users/USER/Documents/333.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/project_1/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-6/project_1/src/main.rs",
+		"/C/Users/USER/Documents/ca1/question3/src/main.rs",
+		"/C/Users/USER/Documents/ca1/question2/src/main.rs",
+		"/C/Users/USER/Documents/ca1/question1/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_4/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-2/project_3.rs",
+		"/C/Users/USER/Documents/tt.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_6/src/main.rs",
+		"/C/Users/USER/Documents/test1.rs",
+		"/C/Users/USER/Desktop/obum.rs",
 		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_3/src/main.rs",
 		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_6/Cargo.toml",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_10/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_9/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_8/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_7/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_6/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_5/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_10/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/project_1/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_9/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_8/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_7/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_6/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_5/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_4/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_3/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_2/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_1/src/main.rs",
 		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_/src/main.rs",
-		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_4/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_1/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_10/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_5/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_6/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_7/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_8/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_9/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week_3/practice_10/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_2/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_3/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_4/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_5/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_7/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_8/src/main.rs",
+		"/C/Users/USER/Documents/o.madubukoCOS101/week-4/practice_9/src/main.rs",
 		"/C/Users/USER/Documents/o.madubukoCSC101/week_3/practice_1/src/practice_3.rs",
 		"/C/Users/USER/Documents/o.madubukoCSC101/week_3/practice_1/Cargo.toml",
 		"/C/Users/USER/Documents/o.madubukoCSC101/week_3/practice_2/src/main.rs",
@@ -97,7 +129,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 27.2
 	},
 	"find_in_files":
 	{
@@ -132,12 +164,44 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/USER/Documents/o.madubukoCOS101/week-7/practice_1/src/main.rs",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rust/Rust.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 27.2
 	},
 	"input":
 	{
@@ -177,7 +241,7 @@
 	"project": "main.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 51.2
 	},
 	"save_all_on_build": true,
 	"select_file":
